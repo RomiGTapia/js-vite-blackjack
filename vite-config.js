@@ -6,3 +6,5 @@ export default defineConfig({
     base:'/js-vite-blackjack/'
 
 });
+
+///gitignore
